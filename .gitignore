@@ -1,0 +1,114 @@
+# 🔒 Sécurité et Clés Quantiques
+.env
+.env.*
+quantum.key
+neural.key
+*.pem
+*.key
+secrets/
+certificates/
+
+# 📦 Dépendances et Modules
+node_modules/
+quantum_modules/
+neural_modules/
+
+# 🏗️ Build et Compilation
+build/
+dist/
+out/
+.next/
+.nuxt/
+quantum_build/
+neural_build/
+holographic_cache/
+
+# 🧠 Fichiers IA et Modèles
+*.model
+*.weights
+*.h5
+models/
+weights/
+quantum_models/
+neural_networks/
+ai_checkpoints/
+
+# 📊 Logs et Données
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+quantum_logs/
+neural_traces/
+performance_metrics/
+
+# 💾 Cache et Temporaires
+.cache/
+.temp/
+tmp/
+quantum_cache/
+neural_cache/
+*.swp
+*.swo
+*~
+
+# 🎨 Assets Générés
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+generated_assets/
+quantum_effects/
+neural_animations/
+
+# 📱 Fichiers Système Spécifiques
+.DS_Store
+Thumbs.db
+desktop.ini
+.quantum_state
+.neural_sync
+
+# 🔧 Configurations IDE et Éditeurs
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.quantum_workspace/
+.neural_config/
+
+# 🧪 Tests et Couverture
+coverage/
+.nyc_output/
+cypress/videos/
+cypress/screenshots/
+quantum_tests/
+neural_specs/
+
+# 📦 Packages et Archives
+*.tgz
+*.zip
+*.tar.gz
+quantum_releases/
+neural_backups/
+
+# 🌐 CDN et Statiques
+public/uploads/
+static/generated/
+quantum_cdn/
+neural_assets/
+
+# 🔄 Synchronisation
+.sync/
+quantum_sync/
+neural_backup/
+.quantum_state/
+.neural_checkpoint/
+
+# 🎮 Interface et Effets
+holographic_effects/
+quantum_particles/
+neural_animations/
+visual_cache/
+effects_temp/
